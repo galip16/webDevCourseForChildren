@@ -1,0 +1,35 @@
+31.05.2022
+
+ soru 1 :  attribute nedir? örnek gösteriniz..    
+ cevap: html tag'lari icine yazilan, ve o tag'a bazi özellikler ekleyen bazilari zorunlu bazilari optional olan property'lerdir.
+
+ soru 2 : linki (<a> Example Link </a>) yeni bir sekmede (tab) acmak icin
+ hangi attribute eklenmeli?
+
+ cevap : target="_blank"
+
+
+
+
+Bugünün Konulari
+
+=> github hesabi
+=> comments (strg + k + c   veya strg + k + u)
+=> class ve id ile css selector (id benzersiz olmali, fakat class birden cok elemente verilebilir)
+=> css styles type (https://www.w3schools.com/html/html_css.asp) => 3 cesit yolu vardir(inline, internal, external)
+
+ÖDEV
+
+- day2 klasörü icine, day2homework isimli baska bir klasör olusturalim. 
+- klasörün icine index.html isimli bir dosya olusturup, html sablonunu olusturalim.
+- sayfamizin en üstüne baslik olarak ismimizi yazalim.
+- kendimizi 4 ayri paragrafta, birer cümle ile tanitalim.
+- ilk 3 paragrafin yazi rengi kahverengi, son paragraf yesil olsun. ve ilk paragraf italik (egik) olsun.
+- day2homework klasörüne kendimize ait bir fotograf koyalim. 
+- sayfanin tam ortasina kendi fotografimizi koyalim.
+- fotografin genisligini 400px yapalim.
+- sayfanin altina bir mavi bir buton koyalim. butonda github hesap profilim yazsin. ve yazi rengi beyaz olsun.
+- butona tiklayinca kendi github hesabiniz ayri bir sekmede acilsin. benim github hesabim (https://github.com/galip16)
+
+
+*** haftasonu en gec pazar günü ödevler bitmis olsun. her biriniz ile online 15 dakika ödev kontrolü yapacagiz. ***
