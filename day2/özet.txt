@@ -1,0 +1,28 @@
+31.05.2022
+
+<!-- soru 1 :  attribute nedir? örnek gösteriniz..    -->
+<!-- soru 2 : linki (<a> Example Link </a>) yeni bir sekmede (tab) acmak icin hangi attribute eklenmeli? -->
+
+
+
+
+Bugünün Konulari
+
+=> github hesabi
+=> comments
+=> class ve id ile css selector
+=> css styles type (https://www.w3schools.com/html/html_css.asp)
+=> Js introduction (https://www.w3schools.com/js/js_intro.asp)
+
+ödev
+
+1) sayfaya bir baslik eklenecek
+    - yazi fontu 24 px 
+    - rengi kirmizi
+    - saga yaslanacak
+    - yazinin üstüne maus ile gelince etrafinda siyah bir cerceve olusacak. maus uzaklastirilinca cerceve yok olacak. (arastirma)
+
+2) iki button eklenecek
+    - sayfanin ortasinda yan yana olacaklar
+    - soldakine tiklandiginda yukaridaki yazinin rengi siyah olacak 
+    -sagdakine tiklayinca yukaridaki yazinin rengi kirmizi olacak
