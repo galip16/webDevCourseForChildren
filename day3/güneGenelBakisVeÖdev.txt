@@ -1,0 +1,30 @@
+07.06.2022
+
+
+Bugünün Konulari
+
+=> Form etiketi
+=> Input türleri
+=> js giris (alert methodu)
+
+ÖDEV
+
+-   fotografta gördügünüz login ekranini olusturmaya caliscagiz
+
+-   input'un icinde kullanicilarin o bölüme ne yazacagini anlamasi icin belirtilen yazilar olacak (kullanici adi ve parola).
+    bunun icin input tag'i "placeholder" denen bir attribute alir. nasil kullanildigini arastirin.
+
+-   input icindeki yazinin input kenarliklarina (border : 2px solid gray ) olan uzaklikligini "padding" css özelligi ile yapabilirsiniz.
+
+-   kullanici parolo girdiginde parolasi görünmemeli.
+
+-   giris butonuna tiklandiginda, sayfada bir pop-up gözükecek ve alert penceresinde "giris basarili" yazacak
+
+-   boyutlari istediginiz ölcülerde yapabilirsiniz. Fakat fotografa en benzer sekilde tasarlamaya calisin.
+
+-   ögrenmediginiz kisimlari internetten nasil arasiracaginizi biliyorsunuz.
+
+Kolay gelsin
+
+
+*** haftasonu en gec pazar günü ödevler bitmis olsun. her biriniz ile online 15 dakika ödev kontrolü yapacagiz. ***
