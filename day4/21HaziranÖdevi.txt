@@ -1,0 +1,11 @@
+## 
+
+** Öncelikle herkes W3School'dan bir hesap olusturacak. (haftasonu ödeviydi)
+
+** Bu Link üzerinden 45 dk * 2 etüt boyunca egzersizler yapilacak (https://www.w3schools.com/html/exercise.asp)
+
+** Takildiginiz yerde show answer'a tiklayarak sonucu görebilirsiniz.
+
+** Sorulari cevaplarken ayni zamanda google'da aramalar yaparak neyin neden kullanildigini ögrenmelisiniz.
+
+** Bir sonraki dersimizde anlamadiginiz yerleri birlikte cevaplayacagiz.
