@@ -6,3 +6,5 @@
 
 * js (https://www.w3schools.com/html/tryit.asp?filename=tryhtml_script_styles)
 
+* display ve js (butona tiklaninca acilan yeni bir div)
+
