@@ -10,3 +10,4 @@
     ** variable types : string = "örnekstring", number = 25, array = ["cafer", 25, "mahmut"]
 
 * display ve js (butona tiklaninca acilan yeni bir div)
+
