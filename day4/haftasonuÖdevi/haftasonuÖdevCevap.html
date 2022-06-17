@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <style>
+    .container {
+      background-color: orange; /*  bütün kutulari kapsayan bir div olusturduk  */
+    }
+
+    .square {
+      height: 200px;
+      width: 200px;
+      background-color: red;
+      margin: 0 auto; /* display:block elementleri (div, p, form vb ) sagdan sola ortalamak icin kullanilabilir*/
+    }
+
+    .container .square:first-child p {
+      color: white;
+      font-size: 50px;
+    } /* tercümesi :  container klasi icindeki cocuklardan (burada 3 cocugu var) square klasina sahip ilk cocugun (eng:child) icindeki p tag'ini sectik */
+  </style>
+  <body>
+    <div class="container">
+      <div class="square">
+        <p>1</p>
+      </div>
+
+      <div class="square" onclick="redToBlue()">
+        <p>2</p>
+      </div>
+
+      <div class="square">
+        <p>3</p>
+      </div>
+    </div>
+
+    <script>
+      function redToBlue() {
+        document.getElementsByClassName("square")[1].style.backgroundColor =
+          "blue";
+      } /* getElementsByClassName methodu ile bir array [1.div, 2.div, 3.div] elde ediyorduk. bu array icinden 2.eleman olan 2.div'i secmeliyiz. ve bunun style'ini degistirmeliyiz.
+            bunu yapabilmek icin getElementsByClassName("square")[0] yazarsak ilk div'i seceriz. 2.div'i secmek icin getElementsByClassName("square")[1] yazdik */
+    </script>
+  </body>
+</html>
